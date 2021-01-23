@@ -3,7 +3,7 @@
 [![Stars](https://img.shields.io/github/stars/insanecodes/Calender-GUI)](https://github.com/insanecodes/Calender-GUI)
 [![Forks](https://img.shields.io/github/forks/insanecodes/Calender-GUI)](https://github.com/insanecodes/Calender-GUI/fork)
 <br>
-A Dictionary GUI App Made Using Python 3.9.0 .
+A Calender GUI App Made Using Python 3.9.0 .
 Hope You Will Like It and you can also use the code to make your own version.
 
 >### To Run, simply double click on the **Calender_gui.exe**.
